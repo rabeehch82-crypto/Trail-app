@@ -1,0 +1,39 @@
+{
+  "name": "trail-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rabeehch82-crypto/Trail-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/rabeehch82-crypto/Trail-app/issues"
+  },
+  "homepage": "https://github.com/rabeehch82-crypto/Trail-app#readme",
+  "dependencies": {
+    "@tailwindcss/postcss": "^4.1.17",
+    "autoprefixer": "^10.4.22",
+    "lucide-react": "^0.555.0",
+    "next": "^16.0.7",
+    "postcss": "^8.5.6",
+    "react": "^19.2.1",
+    "react-dom": "^19.2.1",
+    "tailwindcss": "^4.1.17"
+  },
+  "devDependencies": {
+    "eslint": "^8",
+    "eslint-config-next": "latest"
+  }
+}
